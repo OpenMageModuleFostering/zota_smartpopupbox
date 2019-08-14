@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Zota_SmartPopupBox>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Zota_SmartPopupBox>
+    </modules>
+</config>
