@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
     <name>Zota_SmartPopupBox</name>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <stability>stable</stability>
     <license>OSL</license>
     <channel>community</channel>
@@ -10,9 +10,9 @@
     <description>Double or Tripple Your Audience List In Just 5 Minutes. Smart Popup Box works on ALL website platform and ALL devices with responsive design</description>
     <notes>Professional, Customizable, and High-Converting Designs Popup Box</notes>
     <authors><author><name>smartpopupbox</name><user>spb</user><email>support@smartpopupbox.com</email></author></authors>
-    <date>2014-04-15</date>
-    <time>08:55:02</time>
-    <contents><target name="mageetc"><dir name="modules"><file name="Zota_SmartPopupBox.xml" hash="318a690cdccc5098c508165aaeb2038e"/></dir></target><target name="magecommunity"><dir name="Zota"><dir name="SmartPopupBox"><dir name="Block"><dir name="Adminhtml"><dir name="Source"><dir name="System"><dir name="Config"><file name="Button.php" hash="261ecf4d044dce2915057ba7366b0efa"/></dir></dir></dir></dir><file name="Script.php" hash="0a0f8f61b453e755ddb44d24080bbb1c"/></dir><dir name="etc"><file name="adminhtml.xml" hash="3801ba76cd54d202d1d40ba5e0b9afe1"/><file name="config.xml" hash="216011e5ecacbdda3bf96a3ac1c96168"/><file name="system.xml" hash="ce901eb1de3f540482ac666fc65c54f2"/></dir><dir name="Helper"><file name="Data.php" hash="500d0d006465e3c94720c51bcab0b934"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="smartpopupbox.xml" hash="85c85d8daba86623b20484832104c736"/></dir><dir name="template"><dir name="smartpopupbox"><file name="script.phtml" hash="26c38aafe8a6a2eb3bdcaafa71ad6522"/></dir></dir></dir></dir></dir></target></contents>
+    <date>2014-05-29</date>
+    <time>10:17:41</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="Zota_SmartPopupBox.xml" hash="318a690cdccc5098c508165aaeb2038e"/></dir></target><target name="magecommunity"><dir name="Zota"><dir name="SmartPopupBox"><dir name="Block"><dir name="Adminhtml"><dir name="Source"><dir name="System"><dir name="Config"><file name="Button.php" hash="d9b7a68deb812eb76d0877b45748e87e"/></dir></dir></dir></dir><file name="Script.php" hash="0a0f8f61b453e755ddb44d24080bbb1c"/></dir><dir name="etc"><file name="adminhtml.xml" hash="3801ba76cd54d202d1d40ba5e0b9afe1"/><file name="config.xml" hash="216011e5ecacbdda3bf96a3ac1c96168"/><file name="system.xml" hash="ce901eb1de3f540482ac666fc65c54f2"/></dir><dir name="Helper"><file name="Data.php" hash="500d0d006465e3c94720c51bcab0b934"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="base"><dir name="default"><dir name="layout"><file name="smartpopupbox.xml" hash="85c85d8daba86623b20484832104c736"/></dir><dir name="template"><dir name="smartpopupbox"><file name="script.phtml" hash="6354b73e8cbcc8cb3070c50149a59c7d"/></dir></dir></dir></dir></dir></target></contents>
     <compatible/>
-    <dependencies><required><php><min>5.1.0</min><max>6.7.8</max></php></required></dependencies>
+    <dependencies><required><php><min>5.1.0</min><max>9.8.7</max></php></required></dependencies>
 </package>
