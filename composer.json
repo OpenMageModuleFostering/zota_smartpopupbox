@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Zota_SmartPopupBox",
+    "name": "OpenMageModuleFostering\/Zota_SmartPopupBox",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Professional, Customizable, and High-Converting Designs Popup Box",
     "authors": [
-    {
-        "name": "smartpopupbox",
-        "email": "support@smartpopupbox.com"
-    }
-],
+        {
+            "name": "smartpopupbox",
+            "email": "support@smartpopupbox.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
