@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Zota_SmartPopupBox",
+    "name": "openmage-module-fostering\/zota_smartpopupbox",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Professional, Customizable, and High-Converting Designs Popup Box",
     "authors": [
